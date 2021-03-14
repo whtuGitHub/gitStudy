@@ -5,4 +5,3 @@ Git tracks changes of files
 Create a new branch is quick and simple.
 Branch menagement.
 disconnet with remote resposity
-in branch dev
